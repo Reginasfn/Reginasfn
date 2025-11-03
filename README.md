@@ -1,3 +1,3 @@
 # Hi there, I'm Regina 👋
 
-![Snake Eating Contributions](https://raw.githubusercontent.com/Reginasfn/Reginasfn/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Reginasfn/Reginasfn/blob/output/github-snake-dark.svg)
