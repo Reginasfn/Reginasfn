@@ -5,34 +5,10 @@
 </div>
 
 ---
+
 <div align="center">
   ![snake gif](https://github.com/Reginasfn/Reginasfn/blob/output/github-snake.svg)
 </div>
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/...">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/...">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/Reginasfn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:reginasafina0227@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-### 💻 About Me
-
-👩‍💻 **Regina** | Full Stack Developer & Machine Learning Enthusiast  
-📍 Ufa, Russia | 🌍 Remote-friendly  
-⏰ Available for freelance or full-time roles  
-📧 reginasafina0227@gmail.com
 
 ---
 
@@ -49,43 +25,9 @@
 
 ---
 
-### 🎯 What I’m Working On
-
-- 🔬 Machine Learning projects (with Jupyter Notebooks 📓)
-- 🌐 Web technologies: HTML, CSS, PHP, Vue.js
-- 🎵 AI Music Generator project (“Wavely”)
-- 💼 Appointment Clinic app (C# + PDF generation)
-
----
-
-## 🐍 My Contribution Snake
-![Snake](https://raw.githubusercontent.com/Reginasfn/Reginasfn/output/github-contribution-grid-snake.svg)
-
-### 📊 GitHub Stats (опционально)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reginasfn&show_icons=true&theme=react-dark&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reginasfn&theme=react-dark&hide_border=false" alt="Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reginasfn&bg_color=000000&color=ffffff&line=ff6f61&point=ffcc5c&area=true&hide_border=false" alt="Activity Graph" />
-</div>
-
----
 
 ### 💌 Let’s Connect!
-
-<div align="center">
-  <a href="mailto:reginasafina0227@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
-  </a>
-  <a href="https://t.me/reginasfn">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+### 👩‍💻 **Regina** | 📍 Ufa, Russia | 📧 reginasafina0227@gmail.com | tg: @regsaff
 
 ---
-
-✨ *P.S. If you see a cat in my profile picture — that’s my spirit animal. She doesn’t code, but she judges my commits.* 🐱
-
 <!-- Конец файла README.md -->
