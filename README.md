@@ -6,12 +6,6 @@
 
 ---
 
-<div align="center">
-  ![snake gif](https://github.com/Reginasfn/Reginasfn/blob/output/github-snake.svg)
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -25,9 +19,12 @@
 
 ---
 
+![snake gif](https://github.com/Reginasfn/Reginasfn/blob/output/github-snake.svg)
+
+---
 
 ### 💌 Let’s Connect!
-### 👩‍💻 **Regina** | 📍 Ufa, Russia | 📧 reginasafina0227@gmail.com | tg: @regsaff
+#### 👩‍💻 **Regina** | 📍 Ufa, Russia | 📧 reginasafina0227@gmail.com | tg: @regsaff
 
 ---
 <!-- Конец файла README.md -->
