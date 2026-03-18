@@ -62,6 +62,6 @@
 ---
 
 ### 💌 Let’s Connect!
-#### 👩‍💻 **Regina** | 📍 Ufa, Russia | 📧 reginasafina0227@gmail.com | tg: @regsaff
+#### 👩‍💻 **Regina** | 📧 reginasafina0227@gmail.com | tg: @regsaff
 
 <!-- Конец файла README.md -->
