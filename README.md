@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <!-- <div align="center">
   <img src="https://media1.tenor.com/m/7UzSLCR_x5oAAAAd/cats.gif" alt="Котик-программист" />
@@ -55,13 +55,13 @@
 </div>
 
 ---
-### 🐍 Snakesssssss
+### Snakesssssss
 
 ![snake gif](https://github.com/Reginasfn/Reginasfn/blob/output/github-snake.svg)
 
 ---
 
-### 💌 Let’s Connect!
-#### 👩‍💻 **Regina** | 📧 reginasafina0227@gmail.com | tg: @regsaff
+### Let’s Connect!
+#### 👩‍💻 **Regina** | reginasafina0227@gmail.com | tg: @safinaregy
 
 <!-- Конец файла README.md -->
